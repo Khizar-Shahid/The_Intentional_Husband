@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/gerald-dunbar-waitlist-v4.html"
+    }
+  ]
+}
