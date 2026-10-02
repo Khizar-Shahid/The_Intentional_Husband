@@ -1,8 +1,13 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     {
       "source": "/",
       "destination": "/gerald-dunbar-waitlist-v4.html"
+    },
+    {
+      "source": "/thank-you",
+      "destination": "/thank-you.html"
     }
   ]
 }
