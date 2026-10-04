@@ -8,6 +8,18 @@
     {
       "source": "/thank-you",
       "destination": "/thank-you.html"
+    },
+    {
+      "source": "/favicon.ico",
+      "destination": "/drive-download-20261004T124155Z-1-001/favicon_32x32 px.png"
+    },
+    {
+      "source": "/apple-touch-icon.png",
+      "destination": "/drive-download-20261004T124155Z-1-001/favicon_180x180 px.png"
+    },
+    {
+      "source": "/apple-touch-icon-precomposed.png",
+      "destination": "/drive-download-20261004T124155Z-1-001/favicon_180x180 px.png"
     }
   ]
 }
